@@ -1,3 +1,6 @@
 # Certifications
 All my certifications:
-* x
+* Introduction to MLOps
+* Develop your innovative project
+* Fund your business
+* Evaluate the risks of your project
